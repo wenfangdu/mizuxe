@@ -1,6 +1,6 @@
 #showcase {
   background: url("assets/img/mountains.jpg") no-repeat center;
-  height: 28.125rem;
+  height: 25rem;
   position: relative;
 }
 .overlay {
@@ -12,4 +12,13 @@
   &--primary {
     background-color: var(--primary-low-opacity);
   }
+}
+#boxes-section .card {
+  margin-bottom: 0.625rem;
+}
+.info-header {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border-bottom: 1px solid #dddddd;
 }
