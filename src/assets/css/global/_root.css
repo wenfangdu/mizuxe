@@ -1,4 +1,4 @@
 :root {
   --primary-color: #3292a6;
-  --primary-overlay: rgba(var(--primary-color), 0.8);
+  --primary-low-opacity: rgba(var(--primary-color), 0.8);
 }

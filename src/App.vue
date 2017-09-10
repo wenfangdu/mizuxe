@@ -27,7 +27,15 @@
     <!-- showcase -->
     <section id="showcase">
       <div class="overlay overlay--primary text-white">
-
+        <div class="container text-center">
+          <h1 class="py-5 mt-5">
+            So What You Dream Of ...
+          </h1>
+          <p class="lead">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid, officiis!</p>
+          <a href="#" class="btn btn-outline-secondary btn-lg text-white">
+            <i class="fa fa-arrow-right"></i>Read More
+          </a>
+        </div>
       </div>
     </section>
   </div>

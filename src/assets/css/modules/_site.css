@@ -1,4 +1,15 @@
 #showcase {
   background: url("assets/img/mountains.jpg") no-repeat center;
   height: 37.5rem;
+  position: relative;
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  &--primary {
+    background-color: var(--primary-low-opacity);
+  }
 }
