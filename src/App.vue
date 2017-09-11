@@ -86,12 +86,55 @@
     </section>
     <!-- about section -->
     <section id="about" class="text-center bg-light">
+      <!-- info-header -->
       <div class="container py-5">
         <div class="info-header mb-5">
           <h1 class="text-primary pb-3">
             Why this book?
           </h1>
           <p class="lead pb-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit dolores quia amet numquam architecto dolore!</p>
+        </div>
+      </div>
+      <!-- accordion -->
+      <div id="accordion">
+        <div class="card">
+          <div class="card-header">
+            <h5 class="mb-0">
+              <a href="#collapse1" data-toggle="collapse" data-parent="#accordion">
+              <i class="fa fa-arrow-circle-down"> Get Inspired</i>
+              </a>
+            </h5>
+          </div>
+          <div id="collapse1" class="collapse show">
+            <div class="card-body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta rerum expedita ut cumque asperiores sint quod.
+              Fugiat nobis atque, odit assumenda veniam vitae nisi repellendus minus dolores unde reiciendis aspernatur saepe,
+              doloribus, quam maiores necessitatibus delectus incidunt nostrum. Ea quo maiores, molestiae sequi velit neque
+              porro inventore dolorem fugiat tenetur! Autem corrupti corporis quaerat magnam eligendi cumque, dicta rerum
+              praesentium.
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header">
+            <h5 class="mb-0"><a href="#collapse2" data-toggle="collapse" data-parent="#accordion"><i class="fa fa-arrow-circle-down"> Gain The knowledge</i></a></h5>
+          </div>
+          <div id="collapse2" class="collapse">
+            <div class="card-body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis ab doloremque ex? Nihil, ullam. Minima ducimus,
+              hic sapiente fugiat assumenda laborum consequuntur, perspiciatis dolorem eos dolores deleniti vero error ex
+              voluptatibus reiciendis consectetur, iure rem voluptas quidem nemo praesentium. Id illum deleniti itaque at
+              atque ex quia molestiae, aspernatur nulla!</div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header">
+            <h5 class="mb-0"><a href="#collapse3" data-toggle="collapse" data-parent="#accordion"><i class="fa fa-arrow-circle-down"> Open Your Mind</i></a></h5>
+          </div>
+          <div id="collapse3" class="collapse">
+            <div class="card-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim officia iusto ex tempora sunt architecto ad veniam
+              illum, temporibus esse iure molestiae pariatur, laudantium nulla in sequi dicta, quasi aliquid dolorum aspernatur
+              doloremque nisi? Officiis architecto magni, velit laboriosam deserunt distinctio eius nihil nisi fugit commodi
+              ipsa porro hic non veritatis adipisci voluptatem amet ducimus nulla recusandae nam odio? Qui!</div>
+          </div>
         </div>
       </div>
     </section>
