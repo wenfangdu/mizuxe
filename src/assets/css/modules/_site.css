@@ -22,3 +22,21 @@
   margin-right: auto;
   border-bottom: 1px solid #dddddd;
 }
+#authors-section {
+  & .card {
+    margin-bottom: 0.7rem;
+    &:hover {
+      background-color: var(--primary-color);
+      color: #ffffff;
+      & .text-muted {
+        color: #ffffff !important;
+      }
+      & .fa {
+        color: #ffffff;
+      }
+    }
+  }
+  & .fa {
+    font-size: 1.5625rem;
+  }
+}
