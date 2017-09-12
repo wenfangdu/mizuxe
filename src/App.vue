@@ -283,7 +283,7 @@
               </div>
               <div class="form-group">
                 <div class="input-group input-group-lg"><span class="input-group-addon"><i class="fa fa-pencil"></i></span>
-                  <textarea name="msg" id="msg" class="form-control" cols="30" rows="10" placeholder="Message"></textarea>
+                  <textarea name="msg" id="msg" class="form-control" cols="30" rows="5" placeholder="Message"></textarea>
                 </div>
               </div>
               <button class="btn btn-primary btn-block btn-lg">Submit</button>
