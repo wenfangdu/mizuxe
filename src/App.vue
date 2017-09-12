@@ -124,9 +124,9 @@
           <div class="card">
             <div class="card-header">
               <h5 class="mb-0">
-                <a href="#collapse1" data-toggle="collapse" data-parent="#accordion">
-                  <i class="fa fa-arrow-circle-down"> Get Inspired</i>
-                </a>
+                <div href="#collapse1" data-toggle="collapse" data-parent="#accordion">
+                  <i class="fa fa-arrow-circle-down"></i> Get Inspired
+                </div>
               </h5>
             </div>
             <div id="collapse1" class="collapse show">
@@ -140,7 +140,9 @@
           </div>
           <div class="card">
             <div class="card-header">
-              <h5 class="mb-0"><a href="#collapse2" data-toggle="collapse" data-parent="#accordion"><i class="fa fa-arrow-circle-down"> Gain The knowledge</i></a></h5>
+              <h5 class="mb-0">
+                <div href="#collapse2" data-toggle="collapse" data-parent="#accordion"><i class="fa fa-arrow-circle-down"></i> Gain The knowledge</div>
+              </h5>
             </div>
             <div id="collapse2" class="collapse">
               <div class="card-body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis ab doloremque ex? Nihil, ullam. Minima ducimus,
@@ -151,7 +153,9 @@
           </div>
           <div class="card">
             <div class="card-header">
-              <h5 class="mb-0"><a href="#collapse3" data-toggle="collapse" data-parent="#accordion"><i class="fa fa-arrow-circle-down"> Open Your Mind</i></a></h5>
+              <h5 class="mb-0">
+                <div href="#collapse3" data-toggle="collapse" data-parent="#accordion"><i class="fa fa-arrow-circle-down"></i> Open Your Mind</div>
+              </h5>
             </div>
             <div id="collapse3" class="collapse">
               <div class="card-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim officia iusto ex tempora sunt architecto ad
