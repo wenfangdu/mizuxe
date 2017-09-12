@@ -140,7 +140,7 @@
     </section>
     <!-- authors-section -->
     <section id="authors-section">
-      <div class="container my-5 text-center">
+      <div class="container py-5 text-center">
         <!-- info-header -->
         <div class="info-header mb-5">
           <h1 class="text-primary mb-3">Meet The Authors</h1>
@@ -229,6 +229,39 @@
         </div>
       </div>
     </section>
+    <!-- contact section -->
+    <section id="contact" class="bg-light py-5">
+      <div class="container">
+        <h3>Get In Touch</h3>
+        <p class="lead">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero, exercitationem?</p>
+        <form action="post">
+          <div class="form-group">
+            <div class="input-group input-group-lg"><span class="input-group-addon"><i class="fa fa-user"></i></span>
+              <input type="text" class="form-control" placeholder="Name">
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="input-group input-group-lg"><span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+              <input type="email" name="email" id="email" class="form-control" placeholder="Email">
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="input-group input-group-lg"><span class="input-group-addon"><i class="fa fa-pencil"></i></span>
+              <textarea name="msg" id="msg" class="form-control" cols="30" rows="10" placeholder="Message"></textarea>
+            </div>
+          </div>
+          <button class="btn btn-primary btn-block btn-lg">Submit</button>
+        </form>
+      </div>
+    </section>
+    <!-- main footer -->
+    <footer class="py-3 bg-primary text-white">
+      <div class="container">
+        <div class="text-center">
+          <p class="lead"><strong>BS2</strong> Copyright &copy; 2017</p>
+        </div>
+      </div>
+    </footer>
   </div>
 </template>
 
