@@ -13,8 +13,15 @@
     background-color: var(--primary-low-opacity);
   }
 }
-#boxes-section .card {
-  margin-bottom: 0.625rem;
+#boxes-section {
+  & .card {
+    margin-bottom: 0.625rem;
+  }
+  & .row {
+    & > div {
+      display: flex;
+    }
+  }
 }
 .info-header {
   width: 50%;
@@ -24,7 +31,7 @@
 }
 #authors-section {
   & .card {
-    margin-bottom: 0.7rem;
+    margin-bottom: 1.5rem;
     &:hover {
       background-color: var(--primary-color);
       color: #ffffff;
@@ -38,5 +45,10 @@
   }
   & .fa {
     font-size: 1.5625rem;
+  }
+  & .row {
+    & > div {
+      display: flex;
+    }
   }
 }

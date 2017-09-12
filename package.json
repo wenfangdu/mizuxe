@@ -13,6 +13,7 @@
     "bootstrap": "^4.0.0-beta",
     "jquery": "^3.2.1",
     "popper.js": "^1.12.5",
+    "smooth-scroll": "^12.1.5",
     "vue": "^2.4.2"
   },
   "devDependencies": {
@@ -59,5 +60,9 @@
     "node": ">= 4.0.0",
     "npm": ">= 3.0.0"
   },
-  "browserslist": ["> 1%", "last 2 versions", "not ie <= 8"]
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
 }
