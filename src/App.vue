@@ -6,7 +6,7 @@
         <div class="container">
           <a href="index.html" class="navbar-brand">
             <img src="./assets/img/mlogo.png" width="50" height="50" alt="mlogo">
-            <h3 class="d-inline align-middle">BS2</h3>
+            <h3 class="d-inline align-middle">Mizuxe</h3>
           </a>
           <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
             <span class="navbar-toggler-icon"></span>
@@ -309,7 +309,7 @@
 </template>
 
 <script>
-  window.jQuery = require("jquery")
+  const $ = window.jQuery = require("jquery")
   window.Popper = require("popper.js").default
   require('bootstrap')
   const SmoothScroll = require("smooth-scroll")

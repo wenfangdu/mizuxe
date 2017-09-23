@@ -1,4 +1,4 @@
-# bs2
+# Mizuxe
 
 > A Vue.js project
 
