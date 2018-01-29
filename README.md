@@ -1,6 +1,6 @@
 # Mizuxe
 
-> A Vue.js project
+> Live link https://cooing-owl.surge.sh/
 
 ## Build Setup
 
