@@ -1,6 +1,6 @@
 # Mizuxe
 
-> Live link https://cooing-owl.surge.sh/
+> [Live Link](https://mizuxe.surge.sh)
 
 ## Build Setup
 
