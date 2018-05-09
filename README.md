@@ -1,10 +1,10 @@
 # Mizuxe
 
-> [Live Link](https://mizuxe.surge.sh)
+> [Live Link](https://mizuxe2.netlify.com/)
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
